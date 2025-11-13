@@ -1,62 +1,112 @@
-# IPL Analytics Power BI Dashboard
+# IPL Analytics Dashboard
 
-A visually rich, interactive Power BI dashboard for deep-dive IPL (Indian Premier League) cricket analytics—showcasing player performance, match outcomes, and franchise rivalries using actual IPL match data.
+A visually immersive Power BI dashboard project to explore IPL (Indian Premier League) cricket data: player records, head-to-head rivalries, team strengths, partnerships, and more.
 
 ---
 
 ## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Data Sources](#data-sources)
-- [Project Structure](#project-structure)
-- [How to Use the Report](#how-to-use-the-report)
-- [Page-by-Page Guide](#page-by-page-guide)
-- [Key Insights & Visualizations](#key-insights--visualizations)
-- [Sample Screenshots](#sample-screenshots)
-- [How to Run Locally](#how-to-run-locally)
-- [Credits](#credits)
-- [License](#license)
+1. [Project Overview](#project-overview)
+2. [Visual Gallery](#visual-gallery)
+3. [Features & Insights](#features--insights)
+4. [Data Sources](#data-sources)
+5. [How to Use](#how-to-use)
+6. [Credits & License](#credits--license)
 
 ---
 
 ## Project Overview
 
-This Power BI dashboard offers end-to-end IPL insights for both fans and data professionals. Built from official match data, it explores batting partnerships, bowling performance, head-to-head team rivalries, and match-level thrillers, all in a modern, magazine-inspired style.
+This dashboard provides interactive analytics and storytelling for IPL, using official match datasets and stats. Navigate each page by visual cues and descriptive sections.
 
 ---
 
-## Features
+## Visual Gallery
 
-- **Batting Analytics**
-    - Top partnerships and highest run-scoring duos
-    - Most frequent batting pairs and explosive “impact” combinations
-    - Team, position, and season-wise breakdown of partnerships
+### 1. IPL Dashboard Cover & Franchise/Player Intro
+![IPL Cover & Teams](image.jpg)
+Main cover showing **all IPL franchises, team logos, and star players**. Sets up the project theme and welcomes viewers.
 
-- **Bowling Analytics**
-    - All-time wicket-takers and economy masters
-    - Leaders in four/five wicket hauls (“fifer” heroes)
-    - Franchise bowling dominance and match-turning spells
+---
 
-- **Rivalry & Match Insights**
-    - Interactive head-to-head matrix—track every franchise rivalry
-    - Epic matches: high scores, close shaves, biggest upsets
-    - Narrowest margins for “IPL thrillers” and memorable comebacks
+### 2. Head-to-Head Rivalry Matrix & Close Matches Table
+![Head-to-Head & Close Matches](image.jpg)
+- **Left**: Team-by-team win/loss records, heatmap matrix, and filtered head-to-head analysis.
+- **Right**: Table of IPL's closest matches ("Close Encounters") determined by the smallest win/loss margin.
 
-- **Interactive Filtering**
-    - Slicers for team, player, season, or matchup
-    - Drilldowns for stats on demand
+---
+
+### 3. IPL 2024 Squad & Player Composition Analytics
+![Team & Role Breakdown](image.jpg)
+- **Squad size by team** (bar graph)
+- **Right/Left-hand batter proportion** (pie chart)
+- **Bowling style split** (pace vs spin, bar)
+- **Allrounders per team** (bar chart)
+- **Bottom**: Detailed player table (team, role, style)
+
+---
+
+### 4. Season Highlights & Historical Trends
+![Season Highlights](image.jpg)
+- **Batting Leaderboard**: Top run-scorers bar chart
+- **Bowling Leaderboard**: Top wicket-takers bar chart
+- **Performance Table**: Team-wise trends for 2021-2023 (runs, wickets, wins)
+- **KPI Cards**: Highest team score, wickets, individual runs per match
+
+---
+
+### 5. Batting Partnerships & Run Standouts
+![Batting Partnerships](image.jpg)
+- **Big Hitters Bubble**: Top boundary/performance players by team
+- **Top Partnerships Table**: Most productive duos (by total runs)
+- **Record Stands Table**: Highest partnerships in a single match
+- **Frequent Duos Table**: Most common pairings
+- **Top Partnership By Team Table**: Each team's partnership leaders
+
+---
+
+### 6. Bowling Leaders & Team Analysis
+![Bowling Analytics](image.jpg)
+- **Wicket Taker Leaderboard**: Top 10 IPL bowlers
+- **Match-Winner Table**: Most four/five wicket haul bowlers
+- **Team Bowling Power Matrix**: Team-wise economy rate, wickets, four-wicket hauls
+
+---
+
+## Features & Insights
+
+- **Fully interactive filtering** (team, player, season, match)
+- Covers batting and bowling analytics, franchise comparisons, rivalry stats, key player breakdowns, and close-match drama
+- Magazine-style design, color-coded by franchise, easy navigation per section
 
 ---
 
 ## Data Sources
 
-- **fact_batting_summary.csv** – All player batting records and partnership stats (runs, 4s, 6s, SR, not outs, batting position)
-- **fact_bowling_summary.csv** – All bowler records (overs, wickets, economy, 4w/5w hauls)
-- **dim_match_summary.csv** – Match-level stats (teams, winner, margin, result)
-- **dim_players.csv** (optional) – Player name enrichment
+Data sourced from IPL match records:
+- `fact_batting_summary.csv` (batting stats & partnerships)
+- `fact_bowling_summary.csv` (bowling stats & hauls)
+- `dim_match_summary.csv` (match details & outcomes)
+- `dim_players.csv` (optional, player roles/styles)
 
 ---
 
-## Project Structure
+## How to Use
 
+1. Open the Power BI `.pbix` file
+2. Locate all visual pages using page menu/tabs
+3. Match page order visually as above for exploration or presentation
+4. Use interactive slicers/filters for deeper comparison and customized insights
+
+---
+
+## Credits & License
+
+Dashboard: [Your Name]  
+Data: IPL official records & ESPNcricinfo  
+Report visuals designed using Power BI
+
+MIT License (customizable)
+
+---
+
+*For demo requests or questions, open an issue or contact via portfolio/email link!*
