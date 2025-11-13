@@ -93,7 +93,7 @@ Data sourced from IPL match records:
 ## How to Use
 
 1. Open the Power BI `.pbix` file
-2. Locate all visual pages using page menu/tabs
+2. Locate all visual pages using the page menu/tabs
 3. Match page order visually as above for exploration or presentation
 4. Use interactive slicers/filters for deeper comparison and customized insights
 
@@ -101,7 +101,7 @@ Data sourced from IPL match records:
 
 ## Credits & License
 
-Dashboard: [Your Name]  
+Dashboard: Saibalaji 
 Data: IPL official records & ESPNcricinfo  
 Report visuals designed using Power BI
 
