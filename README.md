@@ -29,7 +29,7 @@ Main cover showing **all IPL franchises, team logos, and star players**. Sets up
 ---
 
 ### 2. Head-to-Head Rivalry Matrix & Close Matches Table
-![Head-to-Head & Close Matches](image.jpg)
+![Head-to-Head & Close Matches](VisualGallery/Playerinformation.jpg)
 - **Left**: Team-by-team win/loss records, heatmap matrix, and filtered head-to-head analysis.
 - **Right**: Table of IPL's closest matches ("Close Encounters") determined by the smallest win/loss margin.
 
