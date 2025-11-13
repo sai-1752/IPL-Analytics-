@@ -17,7 +17,7 @@ A visually immersive Power BI dashboard project to explore IPL (Indian Premier L
 ## Project Overview
 
 This dashboard provides interactive analytics and storytelling for IPL, using official match datasets and stats. Navigate each page by visual cues and descriptive sections.
-
+![main](VisualGallery/main.png)
 ---
 
 ## Visual Gallery
