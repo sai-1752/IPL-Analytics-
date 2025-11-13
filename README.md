@@ -29,14 +29,14 @@ Main cover showing **all IPL franchises, team logos, and star players**. Sets up
 ---
 
 ### 2. Head-to-Head Rivalry Matrix & Close Matches Table
-![Head-to-Head & Close Matches](VisualGallery/Playerinformation.jpg)
+![Head-to-Head & Close Matches](VisualGallery/Playerinformation.png)
 - **Left**: Team-by-team win/loss records, heatmap matrix, and filtered head-to-head analysis.
 - **Right**: Table of IPL's closest matches ("Close Encounters") determined by the smallest win/loss margin.
 
 ---
 
 ### 3. IPL 2024 Squad & Player Composition Analytics
-![Team & Role Breakdown](image.jpg)
+![Team & Role Breakdown](VisualGallery/Performancehighlights.png)
 - **Squad size by team** (bar graph)
 - **Right/Left-hand batter proportion** (pie chart)
 - **Bowling style split** (pace vs spin, bar)
@@ -46,7 +46,7 @@ Main cover showing **all IPL franchises, team logos, and star players**. Sets up
 ---
 
 ### 4. Season Highlights & Historical Trends
-![Season Highlights](image.jpg)
+![Season Highlights](VisualGallery/Records.png)
 - **Batting Leaderboard**: Top run-scorers bar chart
 - **Bowling Leaderboard**: Top wicket-takers bar chart
 - **Performance Table**: Team-wise trends for 2021-2023 (runs, wickets, wins)
@@ -55,7 +55,7 @@ Main cover showing **all IPL franchises, team logos, and star players**. Sets up
 ---
 
 ### 5. Batting Partnerships & Run Standouts
-![Batting Partnerships](image.jpg)
+![Batting Partnerships](VisualGallery/Battingstats.png)
 - **Big Hitters Bubble**: Top boundary/performance players by team
 - **Top Partnerships Table**: Most productive duos (by total runs)
 - **Record Stands Table**: Highest partnerships in a single match
@@ -65,9 +65,9 @@ Main cover showing **all IPL franchises, team logos, and star players**. Sets up
 ---
 
 ### 6. Bowling Leaders & Team Analysis
-![Bowling Analytics](image.jpg)
+![Bowling Analytics](VisualGallery/Bowlingstats.png)
 - **Wicket Taker Leaderboard**: Top 10 IPL bowlers
-- **Match-Winner Table**: Most four/five wicket haul bowlers
+- **Match-Winner Table**: Most four/five-wicket haul bowlers
 - **Team Bowling Power Matrix**: Team-wise economy rate, wickets, four-wicket hauls
 
 ---
