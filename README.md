@@ -23,7 +23,7 @@ This dashboard provides interactive analytics and storytelling for IPL, using of
 ## Visual Gallery
 
 ### 1. IPL Dashboard Cover & Franchise/Player Intro
-![IPL Cover & Teams](VisualGallery/Home.jpg)
+![IPL Cover & Teams](VisualGallery/Home.png)
 Main cover showing **all IPL franchises, team logos, and star players**. Sets up the project theme and welcomes viewers.
 
 ---
