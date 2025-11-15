@@ -36,7 +36,7 @@ Main cover showing **all IPL franchises, team logos, and star players**. Sets up
 ---
 
 ### 3. IPL 2024 Squad & Player Composition Analytics
-![Team & Role Breakdown](VisualGallery/Performancehighlights.png)
+![Team & Role Breakdown](VisualGallery/Performacehighlights.png)
 - **Squad size by team** (bar graph)
 - **Right/Left-hand batter proportion** (pie chart)
 - **Bowling style split** (pace vs spin, bar)
